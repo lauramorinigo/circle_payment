@@ -1,0 +1,16 @@
+{
+    "name": "usdc-payment-app",
+    "version": "1.0.0",
+    "description": "A simple USDC payment app using Circle API.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server/server.js"
+    },
+    "dependencies": {
+        "@circle-fin/circle-sdk": "^1.0.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.18.2",
+        "uuid": "^9.0.0"
+    }
+}
