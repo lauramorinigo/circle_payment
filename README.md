@@ -55,10 +55,7 @@ By default, the app runs on **http://localhost:3000**.
 
 ---
 
-## 📷 Demo Preview
-![USDC Payment Demo](https://your-image-url.com/demo.png)
 
----
 
 ## 🎭 Use Case for Financial Inclusion
 > *"As someone from Argentina, I can’t use PayPal or Stripe to save in dollars, but I can use the Lemon app for USDC payments. This project is a real-world example of how Web3 solves financial problems."*
